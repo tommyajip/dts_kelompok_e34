@@ -180,9 +180,9 @@ header {
 
 .message {
   padding: 15px 40px;
-  background-color: #5dca88;
+  background-color: #1441b3;
   cursor: pointer;
-  box-shadow: 0 7px #1a7940;
+  box-shadow: 0 7px #071c54;
 }
 
 .message:active {
