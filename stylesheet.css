@@ -123,7 +123,7 @@ header {
   display: none;
 }
 
-.lesson-wrapper {
+.member-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
@@ -141,12 +141,12 @@ header {
   font-weight: normal;
 }
 
-.lesson {
+.member {
   float: left;
   width: 20%;
 }
 
-.lesson-icon {
+.member-icon {
   position: relative;
 }
 
