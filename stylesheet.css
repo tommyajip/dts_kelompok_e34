@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
 }
 
 body {
@@ -43,34 +44,31 @@ a {
 }
 
 .btn-wrapper {
-  text-align: center;
-  margin: 20px 20px;
+  margin: 20px 0;
 }
 
-.btn-wrapper p {
-  margin: 10px 0;
-}
-
-.signup {
+.envelope {
   background-color: #239b76;
 }
 
 .facebook {
   background-color: #3b5998;
-  margin-right: 10px;
 }
 
 .twitter {
   background-color: #55acee;
 }
 
+.instagram {
+  background-color: #de1b85;
+}
+
 .btn {
-  padding: 12px 24px;
+  padding: 10px 10px;
   color: white;
   display: inline-block;
   opacity: 0.8;
-  border-radius: 4px;
-  text-align: center;
+  border-radius: 50%;
 }
 
 .btn:hover {
@@ -78,14 +76,14 @@ a {
 }
 
 .fa {
-  margin-right: 5px;
+  margin: 5px 5px;
 }
 
 header {
   height: 70px;
   width: 100%;
-  background-color: rgba(0, 0, 0, 0.9);
-  position :fixed;
+  background-color: rgb(34, 49, 52);
+  position: fixed;
   top: 0;
   z-index: 10;
 }
@@ -101,7 +99,7 @@ header {
 
 .header-right {
   float: right;
-  margin-right: -25px;
+  margin-right: 20px;
 }
 
 .header-right a {
@@ -117,16 +115,13 @@ header {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-/* Tambahkan CSS untuk menu-icon */
 .menu-icon {
   color: white;
   float: right;
   font-size: 25px;
-  padding: 21px 0;
-  /* Gantikan property display ke none */
+  padding: 20px 0;
   display: none;
 }
-
 
 .lesson-wrapper {
   padding-bottom: 80px;
