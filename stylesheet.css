@@ -146,17 +146,10 @@ header {
   width: 25%;
 }
 
-.member-icon {
-  position: relative;
-}
-
 .profile-photo {
   border-radius: 50%;
   border: 2px solid black;
-  position: absolute;
-  top: 20px;
-  left: 34px;
-  width: 70%;
+  width: 75%;
 }
 
 .text-contents {
@@ -208,6 +201,9 @@ footer p {
 }
 
 footer {
-  padding-top: 30px;
+  padding-top: 20px;
   padding-bottom: 20px;
+  width: 100%;
+  background-color: rgb(34, 49, 52);
+  text-align: center;
 }
