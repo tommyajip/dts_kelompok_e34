@@ -23,25 +23,15 @@
   footer {
     text-align: center;
   }
-  
-  .btn {
-    width: 100%;
-  }
-  
-  .facebook {
-    margin-bottom: 10px;
-  }
-  
+    
   .top-wrapper {
-    text-align: left;
+    text-align: center;
   }
   
-  /* Tambahkan CSS untuk header-right */
   .header-right {
     display: none;
   }
   
-  /* Tambahkan CSS untuk menu-icon */
   .menu-icon {
     display: block;
   }
